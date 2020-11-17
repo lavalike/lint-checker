@@ -1,8 +1,8 @@
-# dimeno-lint-checker
+# lint-checker
 > Android自定义编码规范校验
 
 [![Platform](https://img.shields.io/badge/Platform-Android-00CC00.svg?style=flat)](https://www.android.com)
-[![](https://jitpack.io/v/dimeno-tech/dimeno-lint-checker.svg)](https://jitpack.io/#dimeno-tech/dimeno-lint-checker)
+[![](https://jitpack.io/v/lavalike/lint-checker.svg)](https://jitpack.io/#lavalike/lint-checker)
 
 ### 依赖导入
 
@@ -21,7 +21,7 @@ allprojects {
 
 ``` gradle
 dependencies {
-	implementation 'com.github.lavalike:dimeno-lint-checker:0.0.1'
+	implementation 'com.github.lavalike:lint-checker:0.0.1'
 }
 ```
 
